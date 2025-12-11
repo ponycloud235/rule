@@ -9,8 +9,10 @@ DOMAIN-SUFFIX,parkson-market.org
 DOMAIN-SUFFIX,qycnas.cn
 DOMAIN-SUFFIX,txdpx.cn
 DOMAIN-SUFFIX,jisuimage.com
+DOMAIN-SUFFIX,tf888.vip
 # 域名关键字匹配
 DOMAIN-KEYWORD,1e100
+IP-CIDR,34.92.213.54/32,no-resolve
 
 # 国外DNS
 DOMAIN-SUFFIX,dns.google
